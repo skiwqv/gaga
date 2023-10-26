@@ -17,8 +17,6 @@ import navBarVue from "./components/nav-bar.vue"
 .gaga {
   width: 100vw;
   height: 100vh;
-  overflow-x: hidden;
-  overflow-y: hidden;
   background: linear-gradient(180deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3);
 }
 
